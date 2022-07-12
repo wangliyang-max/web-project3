@@ -1,0 +1,17 @@
+com\filter\changeFilter.class
+com\controller\LoginServlet.class
+com\controller\HelloServlet.class
+com\controller\ChangeServlet.class
+com\controller\DeleteServlet.class
+com\filter\deleteFilter.class
+com\filter\searchFilter.class
+com\controller\AddServlet.class
+com\controller\IndexServlet.class
+com\controller\newsServlet.class
+com\controller\AllNewsServlet.class
+com\filter\LoginFilter.class
+com\controller\newsServlet2.class
+com\controller\SearchServlet.class
+com\filter\EncodingFilter.class
+com\entity\Admin.class
+com\entity\News.class

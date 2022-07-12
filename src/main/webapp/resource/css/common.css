@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    width: 80vw;
+    font-size: 20px;
+    margin: auto;
+    top:50px;
+    padding-bottom: 60px;
+    margin-bottom: 100px;
+}
+
+p{
+    text-indent: 2em;
+}
+.text{
+    width: 70vw;
+    margin: auto;
+    color: #c9c9c9;
+}
+.bread{
+    padding: 50px;
+}
+.layui-breadcrumb a{
+    font-size: 25px;
+}
+

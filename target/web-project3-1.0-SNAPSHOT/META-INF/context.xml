@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!--远端数据库，JDBC的连接方法-->
+        <Context>
+            <Resource name="jdbc/MySQL" type="javax.sql.DataSource"
+                      maxTotal="100" maxIdle="30" maxWaitMillis="10000" initialSize="1"
+                      username="root" password="0303.yang"
+                      driverClassName="com.mysql.cj.jdbc.Driver"
+                      url="jdbc:mysql://localhost:3306/webproject?serverTimezone=Asia/Shanghai" />
+        </Context>
